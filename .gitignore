@@ -27,3 +27,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Ignore JetBrains/IntelliJ project files (keep them local)
+.idea/
