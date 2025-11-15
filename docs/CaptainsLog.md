@@ -47,7 +47,7 @@ This application will help the user monitor and improve their weight and nutriti
 
 ### Health
 
-- Input symptoms, pains
+- Input symptoms
 
 ### Fitness
 
@@ -59,8 +59,6 @@ This application will help the user monitor and improve their weight and nutriti
     - Other: 🚵 🚵‍♀️ 🚵‍♂️ 🏇 🏂 🏄 🏄‍♀️ 🏄‍♂️ 🏌️ 🏌️‍♀️ 🏌️‍♂️
   - Health & Medical:
     - 🩺 💊 💉 🏥 🏩 🩹 ⚕️ 🧬
-  - Events & Occasions:
-    - 🎂 🎉 🎊 🎈 🎁 🍾 🥳 🎪 🎭 🎨 🎬 🎤 🎧 🎼 🎹 🥁 🎷 🎺 🎸 🎻
 
 ### Display
 
@@ -80,7 +78,7 @@ This application will help the user monitor and improve their weight and nutriti
 - Business model? donations, ads, ad-free, premium features  
 - Once we pick a name, we'll buy a DNS domain name
 
-## Project Technical Stack & Deployment Summary
+## Project Technology
 
 ### Technical Stack (JPR)
 
